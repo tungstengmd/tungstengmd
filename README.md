@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm tungsten
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpyderThingy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tungstengmd)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on random things
 - 🌱 I’m currently learning JS and am planning on learning Lua.
