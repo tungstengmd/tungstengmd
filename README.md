@@ -5,5 +5,5 @@
 - 🔭 I’m currently working on random things
 - 🌱 I’m currently learning JS and am planning on learning Lua.
 - 📫 How to reach me: My Discord is tungsten_gmd8847
-- 😄 Pronouns: he/them
+- 😄 Pronouns: she/them
 That's all. Enjoy looking at my terrible code!
