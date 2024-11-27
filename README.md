@@ -1,10 +1,10 @@
-### Hi there 👋 I'm tungsten
+### hi there! i'm harlow :3
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tungstengmd)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on random things
-- 🌱 I’m currently learning JS and am planning on learning Lua, VimL, Vim9script and Lisp.
-- 📫 How to reach me: My Discord is tungsten_gmd8847
-- 😄 Pronouns: she/them
+- 🔭 i’m currently working on random things
+- 🌱 i’m currently learning JS, Clojure & C#. i'm planning on learning Lua.
+- 📫 how to reach me: My Discord is tungsten_gmd8847
+- 😄 pronouns: she/them
 
-That's all. Enjoy looking at my terrible code!
+that's all. enjoy looking at my terrible code!
