@@ -4,7 +4,7 @@
 
 - 🔭 i’m currently working on random things
 - 🌱 i’m currently learning JS, Clojure & C#. i'm planning on learning Lua.
-- 📫 how to reach me: My Discord is tungsten_gmd8847
+- 📫 how to reach me: My Discord is harlowthebwaa8847
 - 😄 pronouns: she/them
 
 that's all. enjoy looking at my terrible code!
