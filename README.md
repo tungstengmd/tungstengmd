@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tungstengmd)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 i’m currently working on random things
-- 🌱 i’m currently learning JS, Clojure & C#. i'm planning on learning Lua.
+- 🌱 i’m currently learning Clojure & C#. i'm planning on learning Lua.
 - 📫 how to reach me: my discord is harlowthebwaa8847
 - 😄 pronouns: she/them
 
