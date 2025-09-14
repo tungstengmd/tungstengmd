@@ -6,6 +6,6 @@
 - i know intermediate shell and am currently learning c# [i loathe it]. i'm planning on learning common lisp, ruby and forth.
 - how to reach me: my discord is harlowthebwaa8847
 - pronouns: she/them
-- ALL OF MY WORK IS LICENSED UNDER THE ZLIB LICENSE UNLESS OTHERWISE STATED.
+- ALL OF MY WORK IS LICENSED UNDER A MODIFIED VARIANT OF THE ZLIB LICENSE UNLESS OTHERWISE STATED.
 
 that's all. enjoy looking at my ~~terrible~~ code!
